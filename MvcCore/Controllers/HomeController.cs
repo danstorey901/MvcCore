@@ -22,7 +22,7 @@ namespace MvcCore.Controllers
         {
             return View();
         }
-
+        // Fred Variable - add view - razor view - template = empty, this creates a new file in home. Result = new page on home
         public IActionResult Fred()
         {
             return View();
