@@ -23,6 +23,12 @@ namespace MvcCore.Controllers
             return View();
         }
 
+        public IActionResult Fred()
+        {
+            return View();
+        }
+
+
         public IActionResult Privacy()
         {
             return View();
